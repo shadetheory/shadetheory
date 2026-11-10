@@ -1,4 +1,4 @@
-# Jordan Partridge
+# shadetheory
 
 Engineer first. I build software, agents, and the systems they run on. Stacks come and go. Experience is what I bring to a contract.
 
@@ -30,10 +30,11 @@ I've managed engineering teams. I prefer building, and I can lead when it's need
 
 ## Links
 
-- Site: [jordanpartridge.us](https://jordanpartridge.us)
+- Site: [shadetheory.dev](https://shadetheory.dev)
+- Suno: [@shadetheory](https://suno.com/@shadetheory)
 - X: [@Shadetheory](https://x.com/Shadetheory)
 - LinkedIn: [Jordan Partridge](https://www.linkedin.com/in/jordan-l-partridge)
 
 ## Contact
 
-- Through [jordanpartridge.us](https://jordanpartridge.us)
+- Through [shadetheory.dev](https://shadetheory.dev)
