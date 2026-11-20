@@ -15,7 +15,7 @@ jobs:
         uses: anuraghazra/github-readme-stats@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: jordanpartridge
+          USERNAME: shadetheory
           show_icons: true
           theme: tokyonight
       
